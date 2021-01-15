@@ -1,0 +1,13 @@
+.header {
+    display: block;
+
+}
+h1 {
+    text-align:center;
+    margin-right: 450px;
+    margin-left:500px;
+    font-family: "times";
+    font-size: 50px;
+    color: #ee3769;
+    border:1px solid #ee3769;
+}
